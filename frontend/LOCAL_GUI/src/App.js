@@ -20,7 +20,7 @@ const styles = {
   }
 };
 
-const ENDPOINT = "http://188.251.221.203:8000";
+const ENDPOINT = "XXXX";
 const socket = io(ENDPOINT, {transports: ['websocket', 'polling', 'flashsocket']})
 
 function App() {
