@@ -1,0 +1,48 @@
+[
+    {
+        "model": "LED1545G12",
+        "state": true,
+        "brightness": true,
+        "color_temp": true
+    },
+    {
+        "model": "LED1623G12",
+        "state": true,
+        "brightness": true
+    },
+    {
+        "model": "LED1622G12",
+        "state": true,
+        "brightness": true
+    },
+    {
+        "model" :"LED1624G9",
+        "state": true,
+        "brightness": true,
+        "color_xy": true
+    },
+    {
+        "model": "LED1732G11",
+        "state": true,
+        "brightness": true,
+        "color_temp": true
+    },
+    {
+        "model": "E1525",
+        "occupancy": true
+    },
+    {
+        "model": "E1745",
+        "occupancy": true
+    },
+    {
+        "model": "ZNCZ04LM" ,
+        "state": true
+    },
+    {
+        "model": "ZNLDP12LM",
+        "state": true,
+        "brightness": true,
+        "color_temp": true
+    }
+]
